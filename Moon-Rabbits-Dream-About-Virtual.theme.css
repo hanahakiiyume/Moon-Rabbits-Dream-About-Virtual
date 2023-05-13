@@ -1,3 +1,5 @@
+xD-
+No Author, xx-xx-xxxx, No Publication, https://raw.githubusercontent.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual/main/Moon-Rabbits-Dream-About-Virtual.theme.css, accessed 5-12-2023
 /**
  * @name Moon Rabbits Dream About Virtual
  * @description Based in Tsukino Mito Album Presentation
@@ -41,7 +43,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "IKE EVELAND";
+    --custom-text: "TSUKINO MITO";
 
     /* General Colors */
     --border-color: #da4a60;
@@ -56,7 +58,7 @@
     --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
-   
+
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
     --H: 339; /* Value in numbers [339 is default] */
     --S: 97%; /* Value in % [97% is default] */
