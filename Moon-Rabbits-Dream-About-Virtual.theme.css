@@ -31,17 +31,14 @@
 /* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-image.css'); */
 
 /* Pop Effect */
-@import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
-
-/* Reverse the position of Server list and members */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
+@import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css")
 
 /*------------------------------------------------------
                 all the customization
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "IKE EVELAND";
 
     /* General Colors */
     --border-color: #da4a60;
@@ -50,11 +47,11 @@
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: #e297b2;
-    --bg-gradient2: #c0b4d5;
-    --bg-gradient3: #54b5de;
-    --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
-    --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
+    --bg-gradient1: #63C5DA;
+    --bg-gradient2: #0492C2;
+    --bg-gradient3: #57AOD3;
+    --bg-image: url("https://static.zerochan.net/Ike.Eveland.full.3600359.png")
+    --opacity: 1; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
